@@ -1,14 +1,16 @@
 export const DEFAULT_MODEL = "xai/grok-3";
 
 export const SUPPORTED_MODELS = [
-  "amazon/nova-lite",
-  "amazon/nova-micro",
-  "anthropic/claude-3.5-haiku",
-  "google/gemini-2.0-flash",
-  "google/gemma2-9b-it",
-  "meta/llama-3.1-8b",
-  "mistral/ministral-3b",
-  "openai/gpt-3.5-turbo",
-  "openai/gpt-4o-mini",
+  "openai/gpt-5",
+  "openai/gpt-5-mini",
+  "openai/o3",
+  "openai/o4-mini",
+  "anthropic/claude-opus-4",
+  "anthropic/claude-sonnet-4",
+  "google/gemini-2.5-pro",
+  "google/gemini-2.5-flash",
+  "deepseek/deepseek-r1",
+  "deepseek/deepseek-v3",
+  "xai/grok-4",
   "xai/grok-3",
 ];
