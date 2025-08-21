@@ -1,4 +1,4 @@
-export const DEFAULT_MODEL = "xai/grok-3";
+export const DEFAULT_MODEL = "openai/gpt-5";
 
 export const SUPPORTED_MODELS = [
   "openai/gpt-5",
